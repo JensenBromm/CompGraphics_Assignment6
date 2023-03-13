@@ -1,13 +1,10 @@
 package assignment6;
 
 import java.awt.*;
-import java.applet.*;
-import java.awt.event.*;
 import javax.media.j3d.*;
 import javax.vecmath.*;
 import com.sun.j3d.utils.universe.*;
-import com.sun.j3d.utils.geometry.*;
-import com.sun.j3d.utils.applet.MainFrame;
+
 
 public class Assignment6 
 {
