@@ -17,8 +17,6 @@ public class Assignment6
 		//Seems Similar to Vertical or Horizontal Boxes in javafx
 		BranchGroup group=new BranchGroup();
 		
-		//Adds a cube to the scene
-		//group.addChild(new Sphere(0.5f));
 		
 		//Setting up the font
 		Appearance ap=new Appearance();
